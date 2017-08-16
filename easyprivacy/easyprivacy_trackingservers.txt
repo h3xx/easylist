@@ -403,6 +403,7 @@
 ||clickdimensions.com^$third-party
 ||clickening.com^$third-party
 ||clickforensics.com^$third-party
+||clickguardian.co.uk^$third-party
 ||clickigniter.io^$third-party
 ||clickinc.com^$third-party
 ||clickmanage.com^$third-party
@@ -524,6 +525,7 @@
 ||data-analytics.jp^$third-party
 ||databrain.com^$third-party
 ||datacaciques.com^$third-party
+||datadome.co^$third-party
 ||datafeedfile.com^$third-party
 ||datam.com^$third-party
 ||datamind.ru^$third-party
@@ -570,6 +572,7 @@
 ||dmanalytics1.com^$third-party
 ||dmclick.cn^$third-party
 ||dmd53.com^$third-party
+||dmpcounter.com^$third-party
 ||dmpxs.com^$third-party
 ||dmtracker.com^$third-party
 ||dmtry.com^$third-party
@@ -953,6 +956,7 @@
 ||infinity-tracking.net^$third-party
 ||inflectionpointmedia.com^$third-party
 ||influid.co^$third-party
+||informz.net^$third-party
 ||inimbus.com.au^$third-party
 ||innomdc.com^$third-party
 ||innovateads.com^$third-party
@@ -1009,6 +1013,7 @@
 ||ist-track.com^$third-party
 ||istrack.com^$third-party
 ||itrac.it^$third-party
+||itracker360.com^$third-party
 ||itrackerpro.com^$third-party
 ||itracmediav4.com^$third-party
 ||ivcbrasil.org.br^$third-party
@@ -1590,6 +1595,7 @@
 ||rtrk.com^$third-party
 ||ru4.com^$third-party
 ||rumanalytics.com^$third-party
+||rumpelstiltskinhead.com^$third-party
 ||rztrkr.com^$third-party
 ||s3s-main.net^$third-party
 ||sageanalyst.net^$third-party
@@ -1846,6 +1852,7 @@
 ||tentaculos.net^$third-party
 ||terabytemedia.com^$third-party
 ||testin.cn^$third-party
+||testpixel.net^$third-party
 ||tetoolbox.com^$third-party
 ||theadex.com^$third-party
 ||theagency.com^$third-party
@@ -2166,7 +2173,9 @@
 ||zarget.com^$third-party
 ||zdbb.net^$third-party
 ||zdtag.com^$third-party
+||zedwhyex.com^$third-party
 ||zenlivestats.com^$third-party
+||zeotap.com^$third-party
 ||zesep.com^$third-party
 ||zoomanalytics.co^$third-party
 ||zoomflow.com^$third-party

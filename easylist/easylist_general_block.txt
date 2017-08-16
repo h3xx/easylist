@@ -1605,7 +1605,7 @@
 /adError/*
 /adevent.$domain=~adevent.com
 /adevents.$domain=~adevents.com.au
-/adex.$domain=~adex.alphalab.com|~adex.az|~adex.cloud|~adex.link|~adex.tech|~adextechnologies.com
+/adex.$domain=~adex.alphalab.com|~adex.az|~adex.cloud|~adex.link|~adex.network|~adex.tech|~adextechnologies.com
 /adEx_$domain=~adex.link
 /adexample?
 /adexclude/*
@@ -3098,7 +3098,7 @@
 /advertiser.$domain=~advertiser.adverbid.com|~advertiser.autorepairconnect.com|~advertiser.growmobile.com|~panel.rightflow.com|~trialpay.com|~unity3d.com
 /advertiser/*$domain=~affili.net|~bingads.microsoft.com|~linkpizza.com|~mobileapptracking.com|~trialpay.com
 /advertisers.$image,script,subdocument,domain=~advertisers.adversense.com|~advertisers.easyweddings.com.au|~advertisers.io|~advertisers.leadia.ru|~advertisers.ypfboost.ph|~panel.rightflow.com
-/advertisers/*$domain=~datalift360.com|~home.tapjoy.com|~panel.rightflow.com|~propelmedia.com
+/advertisers/*$domain=~datalift360.com|~home.tapjoy.com|~panel.rightflow.com|~propelmedia.com|~publisuites.com
 /advertiserwidget.
 /advertises/*
 /advertisewithus_
@@ -5420,6 +5420,7 @@
 /promotools.
 /promotools/*
 /promotools1.
+/propellerad.
 /protection/ad/*
 /provideadcode.
 /provider_ads/*
@@ -6431,7 +6432,7 @@
 ://a.ads.
 ://ad.*/jstag^
 ://adcl.$domain=~adcl.com
-://ads.$domain=~ads.am|~ads.colombiaonline.com|~ads.harvard.edu|~ads.msstate.edu|~ads.nc|~ads.route.cc|~ads.sk|~ads.socialtheater.com|~ads.toplayaffiliates.com|~ads.xtribeapp.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~seriouswheels.com
+://ads.$domain=~ads.am|~ads.colombiaonline.com|~ads.comeon.com|~ads.elcarado.com|~ads.harvard.edu|~ads.lapalingo.com|~ads.lordlucky.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.nc|~ads.quasaraffiliates.com|~ads.route.cc|~ads.sk|~ads.socialtheater.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.xtribeapp.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~seriouswheels.com
 ://adv.$domain=~adv.co.it|~adv.msk.ru|~adv.ru|~adv.vg|~adv.works|~advids.co|~erti.se|~escreverdireito.com|~farapp.com|~forex-tv-online.com|~r7.com|~typeform.com|~welaika.com
 ://affiliate.$third-party
 ://affiliates.$third-party

@@ -4191,6 +4191,7 @@
 ###c_sponsoredSquare
 ###c_upperad
 ###c_upperad_c
+###c_wdt_ads_2
 ###caAdLarger
 ###carbonads-container
 ###card-ads-top
@@ -9555,6 +9556,7 @@
 ##.adCreative
 ##.adCs
 ##.adCube
+##.adDeclare
 ##.adDefRect
 ##.adDialog
 ##.adDingT
@@ -10766,6 +10768,7 @@
 ##.ads-code
 ##.ads-col
 ##.ads-container-mediumrectangle
+##.ads-container__inner
 ##.ads-content
 ##.ads-custom
 ##.ads-div
@@ -14379,12 +14382,14 @@
 ##.homeSubAd
 ##.homeTextAds
 ##.home_ad
+##.home_ad300
 ##.home_ad720_inner
 ##.home_ad_300x100
 ##.home_ad_300x250
 ##.home_ad_bottom
 ##.home_ad_large
 ##.home_adblock
+##.home_adholder
 ##.home_advert
 ##.home_advertisement
 ##.home_advertorial
@@ -14500,6 +14505,7 @@
 ##.iconAdChoices
 ##.icon_ad_choices
 ##.iconads
+##.icx_ad
 ##.id-Advert
 ##.id-Article-advert
 ##.idGoogleAdsense
@@ -17257,6 +17263,7 @@
 ##.top-ad-center
 ##.top-ad-container
 ##.top-ad-content
+##.top-ad-div
 ##.top-ad-horizontal
 ##.top-ad-inside
 ##.top-ad-multiplex
